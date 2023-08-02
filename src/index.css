@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
+
+h1{
+  font-family: 'Poppins', sans-serif;
+}
+
+.banner{
+  border-radius: 34px;
+  background: #F4F6F5;
+}
+.banner_bg{
+  font-size: 60px;
+}
+.banner_bg1{
+  background: white;
+  width: 300px;
+  transform: rotate(-2deg)
+}
+.banner_bg2{
+  background: #EBD96B;
+  width: 300px;
+  transform: rotate(-2deg)
+}
+.banner_image{
+  width: 600px;
+  height: 540px;
+}
+.brands_logo{
+  background: #EBD96B;
+}
+.card_icon{
+  float: right;
+}
+.banner2_bg{
+  background: linear-gradient(1.32deg, #E0C340 0.13%, #DFC23E 3.97%, #E1C441 7.2%, #E3C743 10.13%, #E4C542 12.98%, #E6C744 15.99%, #E7C845 19.52%, #E5C643 23.96%, #E6C945 30.43%, #E3C743 36.49%, #E9CA48 42.49%, #EDCE49 49.35%, #F0D44C 55.42%, #F4D84F 61.43%, #F6DA52 65.74%, #F7DB53 72.23%, #F9DD55 77.43%, #F9DF56 83.84%, #FAE157 91.52%, #F9DF56 97.87%);
+}
+.banner2_bg1{
+  font-size: 80px;
+}
+.banner2_bg2{
+  background: white;
+  width: 370px;
+  transform: rotate(-1deg)
+}
+.banner_image2{
+  width: 450px;
+  height: 700px;
+}
+.banner3_bg{
+  background: #E5C643;
+
+}
+.footer_bg{
+  background: black;
+}
