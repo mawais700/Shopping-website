@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Shopping-website/static/css/main.a4a226c1.css",
+    "main.js": "/Shopping-website/static/js/main.c2c6011f.js",
+    "static/media/img1.jpg": "/Shopping-website/static/media/img1.235501cd6a28085030d0.jpg",
+    "static/media/Rectangle 50.png": "/Shopping-website/static/media/Rectangle 50.c4d533bccbbfebaad0f1.png",
+    "static/media/image 12.png": "/Shopping-website/static/media/image 12.27ec629ada4c97d1fef9.png",
+    "static/media/Rectangle 22.png": "/Shopping-website/static/media/Rectangle 22.f5bac3907d7c8ddfc1b8.png",
+    "static/media/Rectangle 20.png": "/Shopping-website/static/media/Rectangle 20.2b567987f23db8549259.png",
+    "static/media/Rectangle 49.png": "/Shopping-website/static/media/Rectangle 49.46314c772c55471776ae.png",
+    "static/media/Rectangle 21.png": "/Shopping-website/static/media/Rectangle 21.b78b3b56bf20a8f79bf1.png",
+    "static/media/Mobile app.png": "/Shopping-website/static/media/Mobile app.980a68387c074e9d5d54.png",
+    "static/media/Rectangle 38.png": "/Shopping-website/static/media/Rectangle 38.c76a60ac1560db4e6cee.png",
+    "static/media/Rectangle 41.png": "/Shopping-website/static/media/Rectangle 41.bd4e04e701a28c455cbd.png",
+    "index.html": "/Shopping-website/index.html",
+    "main.a4a226c1.css.map": "/Shopping-website/static/css/main.a4a226c1.css.map",
+    "main.c2c6011f.js.map": "/Shopping-website/static/js/main.c2c6011f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4a226c1.css",
+    "static/js/main.c2c6011f.js"
+  ]
+}
